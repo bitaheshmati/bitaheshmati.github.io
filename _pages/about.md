@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'> Faculty of Humanities / Department of Theoretical Philosophy, University of Groningen </a>
+subtitle: <a href='https://research.rug.nl/en/persons/bita-heshmati'> Faculty of Humanities / Department of Theoretical Philosophy, University of Groningen </a>
 
 profile:
   align: right
