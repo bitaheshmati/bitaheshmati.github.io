@@ -19,8 +19,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm Bita. I'm a 2nd-year PhD scholarship student working at the Faculty of Arts at the University of Groningen (the Netherlands). My research is on multimodal argumentation with a special focus on the role of pictures and other visual elements in online public discussions. My curiousity in this topic was sparked during my research master studies which I completed in 2021 at this univeristy. During that time, I got the chance to take my first course in argumentation theory with Dr. Jan Albert van Laar which then inspired me to write my master thesis on appeal to pity in visual argumentation under his supervision. Dr. van Laar is currently co-supervising my doctoral project along Dr. Lotte van Poppel and Prof. Dr. Kees de Glopper. I recently presented my research on the application of speech act theory to multimodal argumentation at the ISSA Conference in Leiden. 
-My non-academic interests are running, playing piano, learning how to bike and enjoying social activities with friends.
+I'm Bita. I'm a second-year PhD scholarship student working at the Faculty of Arts at the University of Groningen in the Netherlands. My research focuses on multimodal argumentation, specifically on the potentially persuasive role of pictures and other visual elements in online public discussions. I became curious about this topic during my research master studies, which I completed in 2021 at this university. During my masters, I had the opportunity to take my first course in argumentation theory with Dr. Jan Albert van Laar who became my supervisor for my master's thesis on appeal to pity in visual argumentation. Currently, Dr. van Laar is co-supervising my doctoral project alongside Dr. Lotte van Poppel and Prof. Dr. Kees de Glopper. I recently presented my research on the application of speech act theory to multimodal argumentation at the ISSA Conference in Leiden. 
+Outside of academic work, my main interests are running, playing piano, learning how to bike and enjoying social activities with friends. 
 
 
 
